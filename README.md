@@ -1,23 +1,7 @@
 
 # Latihan Python di Pycharm
-### DAFTAR ISI <br>
-| No | Description | Link |
-| ----- | ----- | ---- |
-| 1 | Cara Installasi Pycharm| [Click Here](#Cara-Installasi-Pycharm)|
-| 2 | Latihan 1 | [Click Here](#Latihan-1) |
-| 3 | Latihan 2 | [Click Here](#Latihan-2) |
-| 4 | Latihan 3 | [Click Here](#Latihan-3) |
-| 5 | Menghitung Luas Dan Keliling Lingkaran | [Click Here](#Menghitung-Luas-Dan-Keliling-Lingkaran) |
-| 6 | Flowchart Menghitung luas dan keliling lingkaran | [Click Here](#Flowchart-Menghitung-luas-dan-keliling-lingkaran) |
-
-
-# Cara Installasi Pycharm
-1. Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
-![Screenshot (76)](https://user-images.githubusercontent.com/115678171/198814989-ba36149f-cf88-492d-bb12-d00398751be4.png)
-2. Anda next saja semua perintahnya 
-3. Jika sudah selesai maka program siap di gunakan
-# Cara Menjalankan Pycharm 
-# Latihan 1
+###Cara Menjalankan Pycharm 
+ - Latihan 1
 1. Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
 ![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/115678171/198815442-dbfb3a6e-1d2f-4fdf-b205-1f7ddfb8b16c.png)
