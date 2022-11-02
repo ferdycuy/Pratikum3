@@ -1,18 +1,18 @@
 
 # Latihan Python di Pycharm
 ### Cara Menjalankan Pycharm 
- ## Latihan 1
-1. Pertama anda  Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
-2. 
+
+- Pertama anda  Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
+ 
 ![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
 
-2. Selanjutnya membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
-3. 
+- Selanjutnya membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
+ 
 ![Screenshot (79)](https://user-images.githubusercontent.com/115678171/198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/115678171/198815863-332a5b4f-c020-40b9-8331-4f98f5794ff9.png)
 
-3. kemudian masukan code dari latihan1 anda lalu Run
-4. ```python
+ ## Latihan 1
+ ```python
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
 print("variable a=",a)
@@ -125,12 +125,9 @@ while bar <= x:
 	bar = bar + 1
 print (string)
 ````
-![Screenshot (71)](https://user-images.githubusercontent.com/115678171/198816679-fcdcebb6-58b9-4857-b171-2dd65952ed24.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/115678171/198816705-c1fbd2e3-b549-493f-8ea8-1d831895a782.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/115714443/199503053-e333e49d-8e82-44dc-a26a-99f70e7d093f.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/115714443/199503115-6a19f854-c260-4227-ad50-1d87c831aab8.png)
 
-*Hasil Run*
-
-![Screenshot (70)](https://user-images.githubusercontent.com/115678171/198816756-e4e3c2c0-0582-4bf4-8bdb-2f5ffc892568.png)
 
 ## Menghitung Luas Dan Keliling Lingkaran
 1. Masukan code di bawah ini lalu run
