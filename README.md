@@ -56,12 +56,9 @@ print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10)
 ```
  
- ![Screenshot (63)](https://user-images.githubusercontent.com/115678171/198816032-fc8004ba-67c8-4506-954d-d7e77deac44d.png)
- ![Screenshot (64)](https://user-images.githubusercontent.com/115678171/198816037-2a855d15-28af-491f-91cd-fa16e1744518.png)
- 
- *Hasil run*
- ![Screenshot (61)](https://user-images.githubusercontent.com/115678171/198816131-06a6ba95-c712-4855-8efe-264562e6b029.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/115678171/198816134-bc4f5b6e-d80c-4fc2-82e7-46c908987be6.png)
+ ![Screenshot (30)](https://user-images.githubusercontent.com/115714443/199500164-631db697-e943-4a7d-af0c-bdfbeb62d680.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/115714443/199500177-2d763b7a-8d56-4967-9465-c4c874e37c4d.png)
+
 
 ## Latihan 2 
 1.  masukan code latihan 2 anda lalu Run 
