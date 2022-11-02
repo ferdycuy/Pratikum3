@@ -3,14 +3,31 @@
 ### Cara Menjalankan Pycharm 
  ## Latihan 1
 1. Pertama anda  Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
+2. 
 ![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
-![Screenshot (77)](https://user-images.githubusercontent.com/115678171/198815442-dbfb3a6e-1d2f-4fdf-b205-1f7ddfb8b16c.png)
 
 2. Selanjutnya membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
+3. 
 ![Screenshot (79)](https://user-images.githubusercontent.com/115678171/198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/115678171/198815863-332a5b4f-c020-40b9-8331-4f98f5794ff9.png)
 
 3. kemudian masukan code dari latihan1 anda lalu Run
+4. ```python
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+
+#koversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
+ 
+ ![Screenshot (30)](https://user-images.githubusercontent.com/115714443/199500164-631db697-e943-4a7d-af0c-bdfbeb62d680.png)
+
+## Latihan 2 
 ```python
 #penggunaan end
 print('A', end='')
@@ -55,29 +72,7 @@ print('{0:>3} {1:>16}'.format(8, 10**8))
 print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10)
 ```
- 
- ![Screenshot (30)](https://user-images.githubusercontent.com/115714443/199500164-631db697-e943-4a7d-af0c-bdfbeb62d680.png)
-![Screenshot (31)](https://user-images.githubusercontent.com/115714443/199500177-2d763b7a-8d56-4967-9465-c4c874e37c4d.png)
-
-
-## Latihan 2 
-1.  masukan code latihan 2 anda lalu Run 
-```python
-a=input("masukkan nilai a:")
-b=input("masukkan nilai b:")
-print("variable a=",a)
-print("variable b=",b)
-print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
-
-#koversi nilai variable
-a=int(a)
-b=int(b)
-print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
-print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
-````
-![Screenshot (68)](https://user-images.githubusercontent.com/115678171/198816300-3b5d72ee-26a4-4bf7-8fce-5710999bea71.png)
-*Hasil Run*
-![Screenshot (69)](https://user-images.githubusercontent.com/115678171/198816307-c1739b5e-447c-44bd-a0a2-43b3ca770e17.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/115714443/199501999-7d75bfec-e96d-4b76-9aeb-892cb1c3ae9c.png)
 
 # Latihan 3
 1. Anda masukan code seperti dibawah ini dan lalu Run
