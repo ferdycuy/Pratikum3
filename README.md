@@ -2,11 +2,11 @@
 # Latihan Python di Pycharm
 ### Cara Menjalankan Pycharm 
 
-- Pertama anda  Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
+- Pertama anda  Klik New project lalu kasih nama project kalian,lalu pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan klik yang versi Python anda seperti gambar di bawah ini
  
 ![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
 
-- Selanjutnya membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
+- Selanjutnya membuat file Python baru di project kalian tadi dan anda kasih nama file sesuai yang inginkan
  
 ![Screenshot (79)](https://user-images.githubusercontent.com/115678171/198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/115678171/198815863-332a5b4f-c020-40b9-8331-4f98f5794ff9.png)
@@ -28,7 +28,7 @@ print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
 ![Screenshot (30)](https://user-images.githubusercontent.com/115714443/199504432-d1dd9610-6259-4893-aaa5-4902e4676ddd.png)
 
 ## latihan 2
-
+- Masukkan code dibawah ini
 ```python
 #penggunaan end
 print('A', end='')
@@ -76,7 +76,7 @@ print('{0:>3} {1:>16}'.format(10, 10**10)
 ![Screenshot (31)](https://user-images.githubusercontent.com/115714443/199501999-7d75bfec-e96d-4b76-9aeb-892cb1c3ae9c.png)
 
 # Latihan 3
-1. Anda masukan code seperti dibawah ini dan lalu Run
+1. Masukan code seperti dibawah ini dan lalu Run
 ```python
 string = ""
 
@@ -142,6 +142,7 @@ keliling = 2 * math.pi * r
 
 print("Luas Lingkaran \t\t= ", luas)
 print("Keliling Lingkaran\t= ", keliling)
+```
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/115714443/199507455-1bad17d9-0172-4a76-82e9-5cf475848a4c.png)
 
