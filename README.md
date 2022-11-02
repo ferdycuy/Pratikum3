@@ -2,17 +2,17 @@
 # Latihan Python di Pycharm
 ### Cara Menjalankan Pycharm 
  ## Latihan 1
-1. Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
+1. Pertama anda  Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
 ![Screenshot (78)](https://user-images.githubusercontent.com/115678171/198815436-8756894e-4eb0-4b58-81fe-165afda78652.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/115678171/198815442-dbfb3a6e-1d2f-4fdf-b205-1f7ddfb8b16c.png)
 
-2. Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
+2. Selanjutnya membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
 ![Screenshot (79)](https://user-images.githubusercontent.com/115678171/198815862-fbfc7ae9-dc11-4184-898a-4711596e2e7a.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/115678171/198815863-332a5b4f-c020-40b9-8331-4f98f5794ff9.png)
 
-3. anda masukan code dari latihan1 anda lalu Run
+3. kemudian masukan code dari latihan1 anda lalu Run
 ```python
-# penggunaan end
+#penggunaan end
 print('A', end='')
 print('B', end='')
 print('C', end='')
@@ -63,8 +63,8 @@ print('{0:>3} {1:>16}'.format(10, 10**10)
  ![Screenshot (61)](https://user-images.githubusercontent.com/115678171/198816131-06a6ba95-c712-4855-8efe-264562e6b029.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/115678171/198816134-bc4f5b6e-d80c-4fc2-82e7-46c908987be6.png)
 
-# Latihan 2 
-1. Anda masukan code latihan 2 anda lalu Run 
+## Latihan 2 
+1.  masukan code latihan 2 anda lalu Run 
 ```python
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
@@ -137,9 +137,10 @@ print (string)
 ![Screenshot (72)](https://user-images.githubusercontent.com/115678171/198816705-c1fbd2e3-b549-493f-8ea8-1d831895a782.png)
 
 *Hasil Run*
+
 ![Screenshot (70)](https://user-images.githubusercontent.com/115678171/198816756-e4e3c2c0-0582-4bf4-8bdb-2f5ffc892568.png)
 
-# Menghitung Luas Dan Keliling Lingkaran
+## Menghitung Luas Dan Keliling Lingkaran
 1. Masukan code di bawah ini lalu run
 ```python
 import math
@@ -157,7 +158,8 @@ print("Keliling Lingkaran\t= ", keliling)
 *Hasil Run*
 ![Screenshot (81)](https://user-images.githubusercontent.com/115678171/198817233-c6c11b97-3aaf-48ed-b7c0-e2ff8c813896.png)
 
-# Flowchart Menghitung luas dan keliling lingkaran
-![Flowchart menghitung luas dan keliling lingkaran](https://user-images.githubusercontent.com/115678171/198817259-154fec0b-f2b1-44e5-86c0-4c7ab1ad6142.png)
+## Flowchart Menghitung luas dan keliling lingkaran
+
+![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115714443/199498739-05faaebe-78b7-436b-b2b8-b1da74d5d389.png)
 
 *Terima Kasih*
