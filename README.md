@@ -142,11 +142,8 @@ keliling = 2 * math.pi * r
 
 print("Luas Lingkaran \t\t= ", luas)
 print("Keliling Lingkaran\t= ", keliling)
-````
-![Screenshot (82)](https://user-images.githubusercontent.com/115678171/198817214-75aca326-f313-47fe-a27c-a7fe79f08332.png)
 
-*Hasil Run*
-![Screenshot (81)](https://user-images.githubusercontent.com/115678171/198817233-c6c11b97-3aaf-48ed-b7c0-e2ff8c813896.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/115714443/199507455-1bad17d9-0172-4a76-82e9-5cf475848a4c.png)
 
 ## Flowchart Menghitung luas dan keliling lingkaran
 
