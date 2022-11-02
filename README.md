@@ -27,7 +27,8 @@ print("hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
  
  ![Screenshot (30)](https://user-images.githubusercontent.com/115714443/199500164-631db697-e943-4a7d-af0c-bdfbeb62d680.png)
 
-## Latihan 2 
+## latihan 2
+
 ```python
 #penggunaan end
 print('A', end='')
